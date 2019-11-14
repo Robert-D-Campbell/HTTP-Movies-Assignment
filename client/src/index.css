@@ -75,3 +75,6 @@ body {
   color: red;
   text-align: center;
 }
+.update-button {
+  margin: 0 auto;
+}
